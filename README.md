@@ -5,7 +5,7 @@
   <h1>Full Stack Developer</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&color=03F700&background=D9FF3500&center=true&vCenter=true&width=1024&lines=Creative+%26+Passionate+%26+Efficient+Full+Stack+Developer;6%2B+years+of+web+developing+experience;Passionate+on+new+technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&color=03F700&background=D9FF3500&center=true&vCenter=true&width=1024&lines=Creative+%26+Passionate+%26+Efficient+Full+Stack+Developer;6%2B+years+of+web+development+experience;Passionate+on+new+technologies!)](https://git.io/typing-svg)
 
 
 # Skills
