@@ -38,7 +38,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 
 ## About me
-This is senior full stack developer with more than 6 years of experience specialized in react, next, vue for frontend and node, laravel, nest for backend. I have built and managed beautiful eCommerce websites, enterprise software, trading site and also have implemented backend with Node.js and laravel
+This is senior full stack developer with more than 6 years of experience specialized in react, next, vue for frontend and node, laravel, nest for backend. I have built and managed beautiful eCommerce websites, enterprise software, trading site and also have implemented backend with Node.js and laravel.
 
 I love React, Next, Vue and have lots of passion for everything related to Blockchain specially NFT project.
 
